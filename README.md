@@ -11,4 +11,8 @@
 
 ☕️ 你可以在 https://projectbs.cn/donate/ 进行捐赠。
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CRooi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRooi&layout=compact)
