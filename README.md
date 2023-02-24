@@ -1,7 +1,7 @@
 ## Hi 👋
 👨‍💻 I'm CRooi, sometimes YOWOT & Yowot.
 
-👀 Freshman, Software Engineering major.
+👀 Freshman, majoring in software engineering.
 
 📖 Learning: JavaScript、TypeScript、Vue、React、C.
 
