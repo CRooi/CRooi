@@ -9,7 +9,7 @@
 - CEIV2 (Chinese Earthquake Information Viewer Version2)
 - Realtime Intensity 
 
-☕️ You can buy me a coffee at https://projectbs.cn/donate
+☕️ You can buy me a coffee at https://projectbs.cn/donatePage
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CRooi&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=false" />
