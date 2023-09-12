@@ -1,5 +1,5 @@
 ## Hi 👋
-👨‍💻 I'm [CRooi](https://crooi.io), founder of (Project BS)[https://projectbs.cn].
+👨‍💻 I'm [CRooi](https://crooi.io), founder of [Project BS](https://projectbs.cn).
 
 👀 Sophomore, majoring in software engineering, disaster prevention (especially earthquake).
 
