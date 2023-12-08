@@ -12,9 +12,9 @@
 - Realtime Intensity
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CRooi&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=false" />
+  <img align="center" src="https://github-readme-stats-2-phi.vercel.app/api?username=CRooi&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=false" />
 </a>
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRooi&layout=compact)
+![Top Langs](https://github-readme-stats-2-phi.vercel.app/api/top-langs/?username=CRooi&layout=compact)
